@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Cape Town",
+    "city": "Cape Town",
+    "location": {
+      "latitude": -33.924870,
+      "longitude": 18.424055
+    }
+  },
+  {
+    "name": "Kruger National Park",
+    "city": "South Africa",
+    "location": {
+      "latitude": -23.9883848,
+      "longitude": 31.5547402
+    }
+  },
+  {
+    "name": "Maclear's Beacon",
+    "city": "Cape Town",
+    "location": {
+      "latitude": -33.9668233,
+      "longitude": 18.4080533
+    }
+  },
+  {
+    "name": "Cape of Good Hope",
+    "city": "Cape Town",
+    "location": {
+      "latitude": -34.252449,
+      "longitude": 18.408020
+    }
+  },
+  {
+    "name": "Flic En Flac Beach",
+    "city": "Mauritius",
+    "location": {
+      "latitude": -20.2965274,
+      "longitude": 57.3503385
+    }
+  },
+  {
+    "name": "Chamarel Seven Colored Earth Geopark",
+    "city": "Chamarel",
+    "location": {
+      "latitude": -20.440226,
+      "longitude": 57.3711544
+    }
+  },
+  {
+    "name": "Mauritius Island",
+    "city": "Mauritius",
+    "location": {
+      "latitude": -20.2999585,
+      "longitude": 57.5658238
+    }
+  },
+  {
+    "name": "Grand Bassin",
+    "city": "Mauritius",
+    "location": {
+      "latitude": -20.4182303,
+      "longitude": 57.489996
+    }
+  },
+  {
+    "name": "Taj Mahal",
+    "city": "Agra",
+    "location": {
+      "latitude": 27.1751448,
+      "longitude": 78.0421422
+    }
+  },
+  {
+    "name": "Amber Palace",
+    "city": "Jaipur",
+    "location": {
+      "latitude": 26.9854913,
+      "longitude": 75.8491567
+    }
+  },
+  {
+    "name": "Red Fort",
+    "city": "Delhi",
+    "location": {
+      "latitude": 28.6561639,
+      "longitude": 77.2388316
+    }
+  },
+  {
+    "name": "Hawa Mahal",
+    "city": "Jaipur",
+    "location": {
+      "latitude": 26.9239411,
+      "longitude": 75.8245551
+    }
+  },
+  {
+    "name": "Marina Bay Sands",
+    "city": "Singapore",
+    "location": {
+      "latitude": 1.2846819,
+      "longitude": 103.8588228
+    }
+  },
+  {
+    "name": "Merlion",
+    "city": "Singapore",
+    "location": {
+      "latitude": 1.2851843,
+      "longitude": 103.8488253
+    }
+  },
+  {
+    "name": "Singapore Flyer",
+    "city": "Singapore",
+    "location": {
+      "latitude": 1.2893042,
+      "longitude": 103.8609481
+    }
+  },
+  {
+    "name": "Sentosa",
+    "city": "Singapore",
+    "location": {
+      "latitude": 1.249007,
+      "longitude": 103.8100461
+    }
+  },
+  {
+    "name": "Colosseum",
+    "city": "Roma RM",
+    "location": {
+      "latitude": 41.8902142,
+      "longitude": 12.4900422
+    }
+  },
+  {
+    "name": "Pantheon",
+    "city": "Roma RM",
+    "location": {
+      "latitude": 41.8984744,
+      "longitude": 12.4709774
+    }
+  },
+  {
+    "name": "Leaning Tower of Pisa",
+    "city": "Pisa Pl",
+    "location": {
+      "latitude": 43.7229559,
+      "longitude": 10.3944083
+    }
+  },
+  {
+    "name": "Cinque Terre",
+    "city": "La Spezia",
+    "location": {
+      "latitude": 44.1238617,
+      "longitude": 9.621307
+    }
+  },
+  {
+    "name": "The British Museum",
+    "city": "London",
+    "location": {
+      "latitude": 51.5194166,
+      "longitude": -0.1291453
+    }
+  },
+  {
+    "name": "Tower of London",
+    "city": "London",
+    "location": {
+      "latitude": 51.5081157,
+      "longitude": -0.078138
+    }
+  },
+  {
+    "name": "Big Ben",
+    "city": "London",
+    "location": {
+      "latitude": 51.5007325,
+      "longitude": -0.1268141
+    }
+  },
+  {
+    "name": "Buckingham Palace",
+    "city": "London",
+    "location": {
+      "latitude": 51.5013673,
+      "longitude": -0.1440787
+    }
+  },
+  {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "location": {
+      "latitude": 43.6425701,
+      "longitude": -79.3892455
+    }
+  },
+  {
+    "name": "Banff National Park",
+    "city": "Alberta",
+    "location": {
+      "latitude": 51.4968497,
+      "longitude": -115.9302449
+    }
+  },
+  {
+    "name": "Stanley Park",
+    "city": "Vancouver",
+    "location": {
+      "latitude": 49.3042619,
+      "longitude": -123.1464409
+    }
+  },
+  {
+    "name": "Moraine Lake",
+    "city": "Alberta",
+    "location": {
+      "latitude": 51.3215642,
+      "longitude": -116.1936965
+    }
+  },
+  {
+    "name": "Washington Monument",
+    "city": "Washington",
+    "location": {
+      "latitude": 48.6286376,
+      "longitude": -121.8488983
+    }
+  },
+  {
+    "name": "Cinderella Castle",
+    "city": "Orlando",
+    "location": {
+      "latitude": 28.4195456,
+      "longitude": -81.583381
+    }
+  },
+  {
+    "name": "Statue of Liberty",
+    "city": "New York",
+    "location": {
+      "latitude": 40.6892534,
+      "longitude": -74.0466891
+    }
+  },
+  {
+    "name": "9/11 Memorial & Museum",
+    "city": "New York",
+    "location": {
+      "latitude": 40.7115305,
+      "longitude": -74.0145619
+    }
+  },
+  {
+    "name": "Sugarloaf Mountain",
+    "city": "State of Rio de Janeiro",
+    "location": {
+      "latitude": -22.9492178,
+      "longitude": -43.1720852
+    }
+  },
+  {
+    "name": "Christ the Redeemer",
+    "city": "State of Rio de Janeiro",
+    "location": {
+      "latitude": -22.951911,
+      "longitude": -43.2126759
+    }
+  },
+  {
+    "name": "Corcovado",
+    "city": "State of Rio de Janeiro",
+    "location": {
+      "latitude": -22.9551472,
+      "longitude": -43.22247
+    }
+  },
+  {
+    "name": "Parque Nacional dos",
+    "city": "Barreirinhas",
+    "location": {
+      "latitude": -2.4859331,
+      "longitude": -43.1305957
+    }
+  },
+  {
+    "name": "Rosario Islands",
+    "city": "Colombia",
+    "location": {
+      "latitude": 10.1970958,
+      "longitude": -75.7954193
+    }
+  },
+  {
+    "name": "Valle del Cocora",
+    "city": "Quindio",
+    "location": {
+      "latitude": 4.6377173,
+      "longitude": -75.4912587
+    }
+  },
+  {
+    "name": "Catedral de Sal",
+    "city": "Cundinamarca",
+    "location": {
+      "latitude": 5.0187053,
+      "longitude": -74.0121058
+    }
+  },
+  {
+    "name": "Monserrate",
+    "city": "Bogotá",
+    "location": {
+      "latitude": 4.6057153,
+      "longitude": -74.073035
+    }
+  },
+  {
+    "name": "Milford Sound",
+    "city": "Southland",
+    "location": {
+      "latitude": -44.6231605,
+      "longitude": 167.7842977
+    }
+  },
+  {
+    "name": "Mount Cook",
+    "city": "Canterbury",
+    "location": {
+      "latitude": -43.6628744,
+      "longitude": 170.1012341
+    }
+  },
+  {
+    "name": "Lake Tekapo",
+    "city": "Canterbury",
+    "location": {
+      "latitude": -44.0084007,
+      "longitude": 170.4591626
+    }
+  },
+  {
+    "name": "Sky Tower",
+    "city": "Auckland",
+    "location": {
+      "latitude": -36.8484437,
+      "longitude": 174.7600023
+    }
+  },
+  {
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "location": {
+      "latitude": -33.8567799,
+      "longitude": 151.213108
+    }
+  },
+  {
+    "name": "Sydney Harbour Bridge",
+    "city": "Sydney",
+    "location": {
+      "latitude": -33.8523018,
+      "longitude": 151.2085984
+    }
+  },
+  {
+    "name": "Twelve Apostles",
+    "city": "Victoria",
+    "location": {
+      "latitude": -38.6615482,
+      "longitude": 143.0766629
+    }
+  },
+  {
+    "name": "Great Ocean Road",
+    "city": "Anglesea",
+    "location": {
+      "latitude": -38.4072783,
+      "longitude": 144.1841418
+    }
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309579532555",
+    "project_id": "viaje-69aff",
+    "storage_bucket": "viaje-69aff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309579532555:android:9c7e3aea949cfd07f2ba0e",
+        "android_client_info": {
+          "package_name": "op.mobile.app.dev.kaths4.travelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309579532555-f2ndnls6o7nbelokthbp3k15bti6jqim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMabpaMMqritFn4xk2cjpJRznwreU8uKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309579532555-f2ndnls6o7nbelokthbp3k15bti6jqim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

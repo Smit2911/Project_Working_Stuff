@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application Name -->
+    <string name="app_name">यात्रा साथी</string>
+
+    <!-- Activities Name -->
+    <string name="countries">देशों</string>
+    <string name="translation">अनुवाद</string>
+    <string name="settings">समायोजन</string>
+    <string name="quiz">प्रश्नोत्तरी</string>
+    <string name="phrases">वाक्यांशों</string>
+    <string name="touristPlaces">पर्यटक स्थल</string>
+    <string name="australia">ऑस्ट्रेलिया</string>
+    <string name="new_zealand">न्यूज़ीलैंड</string>
+    <string name="colombia">कोलंबिया</string>
+    <string name="brazil">ब्राज़िल</string>
+    <string name="us">संयुक्त राज्य अमेरिका</string>
+    <string name="canada">कनाडा</string>
+    <string name="uk">यूनाइटेड किंगडम</string>
+    <string name="italy">इटली</string>
+    <string name="singapore">सिंगापुर</string>
+    <string name="india">भारत</string>
+    <string name="mauritius">मॉरीशस</string>
+    <string name="south_africa">दक्षिण अफ्रीका</string>
+
+    <!-- Change Map Style -->
+    <string name="change_map_style">मानचित्र शैली बदलें</string>
+
+    <!-- Country List API -->
+    <string name="countryFlag">राष्ट्र का झण्डा</string>
+    <string name="connection_error">संपर्क त्रुटि :(</string>
+    <string name="loading">लोड हो रहा है…</string>
+    <string name="officialLanguage">Official Language: %1$s</string>
+
+    <!-- Login and Signup -->
+    <string name="title_activity_login">लॉग इन करें</string>
+    <string name="prompt_email">ईमेल</string>
+    <string name="prompt_password">कुंजिका</string>
+    <string name="welcome">स्वागत हे !</string>
+    <string name="invalid_username">मान्य उपयोगकर्ता नाम नहीं है</string>
+    <string name="invalid_password">पासवर्ड 5 अक्षरों से बड़ा होना चाहिए</string>
+    <string name="login_failed">लॉगिन विफल</string>
+    <string name="create_account">खाता नहीं है? रजिस्टर करें</string>
+    <string name="created_account">पहले से ही एक खाता है? साइन इन करें</string>
+    <string name="action_sign_up">साइन अप करें</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="welcome_back">वापसी पर स्वागत है,</string>
+    <string name="sign_in_to_continue">जारी रखने के लिए साइन इन करें</string>
+    <string name="sign_in">साइन इन करें</string>
+    <string name="sign_up_to_continue">जारी रखने के लिए साइन अप करें</string>
+    <string name="register">रजिस्टर करें</string>
+    <string name="ErrorMSGEmail">कृपया ईमेल दर्ज करें</string>
+    <string name="ErrorMSGInvEmail">कृपया वैध ईमेल दर्ज़ करें</string>
+    <string name="ErrorMSGPass">कृपया पासवर्ड दर्ज करें</string>
+    <string name="MSGAuthFail">प्रमाणीकरण विफल होना।</string>
+    <string name="MSGEnterName">अपना नाम दर्ज करें</string>
+    <string name="MSGVerifyEmail">अपना ईमेल का पता जांच कराये।</string>
+
+    <!-- Quiz -->
+    <string name="please_enter_your_name_quiz_dialog">अपना नाम दर्ज करें</string>
+    <string name="name_quiz_dialog">नाम</string>
+    <string name="start_quiz_dialog">शुरू</string>
+    <string name="question">सवाल</string>
+    <string name="questionImage">प्रश्न छवि</string>
+    <string name="submit">प्रस्तुत</string>
+    <string name="Option_4">विकल्प 4</string>
+    <string name="Option_3">विकल्प 3</string>
+    <string name="Option_2">विकल्प 2</string>
+    <string name="Option_1">विकल्प 1</string>
+
+    <!-- Phrases -->
+    <string name="Pharse">वाक्यांशों</string>
+    <string name="explanation">व्याख्या</string>
+
+    <!-- Phrases For US -->
+    <string name="UsPhraseOne">Slang:- Scoot over</string>
+    <string name="UsPhraseTwo">Slang:- Break a leg</string>
+    <string name="UsPhraseThree">Slang:- Knock on wood</string>
+    <string name="UsPhraseFour">Slang:- It\'s not rocket science</string>
+    <string name="UsPhraseFive">Slang:- Break a bill</string>
+    <string name="UsPhraseSix">Slang:- Let\'s table this</string>
+
+    <!-- Explanation For US -->
+    <string name="UsExplainOne">Explanation:- Americans might casually say this when asking someone to move slightly, but those who aren\'t familiar with the term can be forgiven for not having a clue what the American is asking them to do.</string>
+    <string name="UsExplainTwo">Explanation:- When directly translated, this American phrase sounds to a non-English speaker that the speaker is wishing them ill will or putting some kind of curse on them.</string>
+    <string name="UsExplainThree">\"Explanation:- Sort of the opposite of break a leg, this expression, said (and done) when someone hopes something happens or continues to happen is common throughout the English speaking world (usually as touch wood outside America). \"</string>
+    <string name="UsExplainFour">Explanation:- it\'s not rocket science is a way of explaining something by hyperbolically explaining what it\'s not—in this case, saying something is not too difficult.</string>
+    <string name="UsExplainFive">Explanation:- When we want to get change, turning a larger bill into smaller ones, this term can come in handy.</string>
+    <string name="UsExplainSix">Explanation:- When you say to table something you mean to shelve it. When I say to table something I mean to put it on the table for discussion.</string>
+
+    <!-- Phrases For UK -->
+    <string name="UkPhraseOne">Slang:- Fancy a cuppa?</string>
+    <string name="UkPhraseTwo">Slang:- Alright?</string>
+    <string name="UkPhraseThree">Slang:- I’m knackered!</string>
+    <string name="UkPhraseFour">Slang:- Cheeky</string>
+    <string name="UkPhraseFive">Slang:- I’m chuffed to bits!</string>
+    <string name="UkPhraseSix">Slang:- To bodge something</string>
+
+    <!-- Explanation For UK -->
+    <string name="UkExplainSix">Explanation:- to mend, or repair something clumsily.</string>
+    <string name="UkExplainFive">Explanation:- I’m very pleased.</string>
+    <string name="UkExplainFour">Explanation:- playful; mischievous</string>
+    <string name="UkExplainThree">Explanation:- I’m tired.</string>
+    <string name="UkExplainTwo">Explanation:- Hey, how are you?</string>
+    <string name="UkExplainOne">Explanation:- Would you like a cup of tea?</string>
+
+    <!-- Phrases For South Africa -->
+    <string name="SaPhraseOne">Slang:- Ag man!</string>
+    <string name="SaPhraseTwo">Slang:- Aikona – not on your life</string>
+    <string name="SaPhraseThree">Slang:- Boet – brother</string>
+    <string name="SaPhraseFour">Slang:- Bra / Bru – friend</string>
+    <string name="SaPhraseFive">Slang:- Chow – to eat / food</string>
+    <string name="SaPhraseSix">Slang:- Eina! – ouch!</string>
+
+    <!-- Explanation For South Africa -->
+    <string name="SaExplainOne">Explanation:- This is the Afrikaans equivalent to “Oh man!” and is often used at the beginning of a sentence to express pity, resignation or irritation.</string>
+    <string name="SaExplainTwo">Explanation:- A Zulu term used to express shock or disbelief when talking to friends or family.</string>
+    <string name="SaExplainThree">Explanation:- This term is usually used in reference to a male friend or companion.</string>
+    <string name="SaExplainFour">Explanation:- This term is commonly used to call a friend, pal or buddy.</string>
+    <string name="SaExplainFive">Explanation:- Often used when talking about food, this term can be used as a verb, meaning to eat, or when talking about the food itself.</string>
+    <string name="SaExplainSix">Explanation:- Usually expressed when someone experiences a sharp pain of some sort.</string>
+
+    <!-- Phrases For Singapore -->
+    <string name="SinPhraseOne">Slang:- Ulu (ooh-loo) / out of the way</string>
+    <string name="SinPhrasesTwo">Slang:- Tompang (tohm-pung) / hitch a ride</string>
+    <string name="SinPhrasesThree">Slang:- Makan (mah-kahn) / eat or food</string>
+    <string name="SinPhrasesFour">Slang:- Chope (joh-pe) / reserve</string>
+    <string name="SinPhrasesFive">Slang:- Kancheong Spider (kun-chee-ong-spider) / jittery or nervous</string>
+    <string name="SinPhrasesSix">Slang:- Jialat! (ji-ah-laht) / very bad!</string>
+
+    <!-- Explanation For Singapore -->
+    <string name="SinExplainOne">Explanation:- In tiny Singapore, any place that requires more than an hour to get to by public transport, or is particularly hard to find, can be considered ‘so ulu’.</string>
+    <string name="SinExplainTwo">Explanation:- If someone asks you whether they ‘can tompang?’, they are usually asking you to give them a lift somewhere, or to help them pass an item to someone else.</string>
+    <string name="SinExplainThree">Explanation:- This Malay term can be used to describe food (‘makan!’) or the action of having a meal (as in ‘let’s go makan’).</string>
+    <string name="SinExplainFour">Explanation:- The Singaporean way of ‘chope-ing’ something is most commonly seen in hawker centres, with tissue packets indicating that the table is taken.</string>
+    <string name="SinExplainFive">Explanation:- Someone calling you a ‘kancheong spider’ is basically saying that you need to chill out and not be so nervous about things.</string>
+    <string name="SinExplainSix">Explanation:- A Chinese Hokkien term that translates literally as ‘eating strength’, this is a multi-purpose phrase you can use to exclaim about most things bad – whether it’s a person, behaviour or circumstance.</string>
+
+    <!-- Phrases For New Zealand -->
+    <string name="NzPhraseOne">Slang:- My bloody car carked it yesterday.</string>
+    <string name="NzPhraseTwo">Slang:- That fulla is munted.</string>
+    <string name="NzPhraseThree">Slang:- Yep, I’m chocka.</string>
+    <string name="NzPhraseFour">Slang:- Pass me the chuddy.</string>
+    <string name="NzPhraseFive">Slang:- What a ratbag!</string>
+    <string name="NzPhraseSix">Slang:- Mandy is packing a sad.</string>
+
+    <!-- Explanation For New Zealand -->
+    <string name="NzExplainOne">Explanation:- My car died yesterday.</string>
+    <string name="NzExplainTwo">Explanation:- That guy is drunk.</string>
+    <string name="NzExplainThree">Explanation:- Yep, I’m full.</string>
+    <string name="NzExplainFour">Explanation:- Pass me the chewing gum.</string>
+    <string name="NzExplainFive">Explanation:- What a brat!</string>
+    <string name="NzExplainSix">Explanation:- Mandy is upset.</string>
+
+    <!-- Phrases For Mauritius -->
+    <string name="MauPhraseOne">Slang:- Alo. Ki manier? Korek?</string>
+    <string name="MauPhrasesTwo">Slang:- Bonzour. Mo appel…, kouma ou apele?</string>
+    <string name="MauPhrasesThree">Slang:- Azordi, mo finn fer letour lil.</string>
+    <string name="MauPhrasesFour">Slang:- Létan-la byen bon zordi.</string>
+    <string name="MauPhrasesFive">Slang:- Ki dernie pri ou kapav fer ?</string>
+    <string name="MauPhrasesSix">Slang:- Alo, mo kapav koz ek…?</string>
+
+    <!-- Explanation For Mauritius -->
+    <string name="MauExplainOne">Explanation:- Hi, how’s it going?</string>
+    <string name="MauExplainTwo">Explanation:- Hello. My name is… What is your name?</string>
+    <string name="MauExplainThree">Explanation:- Today, I toured the island.</string>
+    <string name="MauExplainFour">Explanation:- Nice weather today!.</string>
+    <string name="MauExplainFive">Explanation:- Can you lower the price?</string>
+    <string name="MauExplainSix">Explanation:- Hello, may I speak to…?</string>
+
+    <!-- Phrases For Italy -->
+    <string name="ItalyPhrasesOne">Slang:- Che figata (keh fee-GAH-tah)</string>
+    <string name="ItalyPhrasesTwo">Slang:- Figurati! (Fee-GUH-rah-tee)</string>
+    <string name="ItalyPhrasesThree">Slang:- Che schifo! (keh SKEE-foh)</string>
+    <string name="ItalyPhrasesFour">Slang:- Meno Male! (MEH-noh MAH-leh)</string>
+    <string name="ItalyPhrasesFive">Slang:- Magari! (mah-GAHR-ee!)</string>
+    <string name="ItalyPhrasesSix">Slang:- Basta! (BAH-stah!)</string>
+
+    <!-- Explanation For Italy -->
+    <string name="ItalyExplainOne">Explanation:- An adventure in Italy done right will leave you with plenty of chances to use and hear, What a cool thing!.</string>
+    <string name="ItalyExplainTwo">Explanation:- No worries in Italian.</string>
+    <string name="ItalyExplainThree">Explanation:- How disgusting!.</string>
+    <string name="ItalyExplainFour">Explanation:- Its translation means less bad, but it’s used like, Thank God!</string>
+    <string name="ItalyExplainFive">Explanation:- The Italian counterpart to I wish!, Let’s hope!, or Maybe!</string>
+    <string name="ItalyExplainSix">Explanation:- Enough!, That’s it!</string>
+
+    <!-- Phrases For India -->
+    <string name="IndPhraseOne">Slang:- Yaar / Friend</string>
+    <string name="IndPhraseTwo">Slang:- Achcha / Good</string>
+    <string name="IndPhraseThree">Slang:- Bas / That’s it</string>
+    <string name="IndPhraseFour">Slang:- Arre / Hey</string>
+    <string name="IndPhraseFive">Slang:- Funda / Fundamentals</string>
+    <string name="IndPhraseSix">Slang:- Jugaad / Hack</string>
+
+    <!-- Explanation For India -->
+    <string name="IndExplainOne">Explanation:- In just about every conversation, yaar is a recurring slang term that’s used in casual social interactions between friends and sometimes even strangers who may be shopkeepers or autorickshaw drivers.</string>
+    <string name="IndExplainTwo">Explanation:- Used to express I see, okay, or really?</string>
+    <string name="IndExplainThree">Explanation:- Whether at a lunch table or on a cab ride, bas is used when someone needs to communicate “that will be all.”</string>
+    <string name="IndExplainFour">Explanation:- The meaning of this term changes with intonation. When used in a higher tone, it expresses surprise. In a lower tone, it conveys exasperation. Said neutrally, it’s used to get attention.</string>
+    <string name="IndExplainFive">Explanation:- This term is especially popular among college students who use it in the context of ideas.</string>
+    <string name="IndExplainSix">Explanation:- Jugaad is a popular term used in response to someone looking for a solution.</string>
+
+    <!-- Phrases For Colombia -->
+    <string name="ColombiaPhraseOne">Slang:- Parce</string>
+    <string name="ColombiaPhraseTwo">Slang:- Bacano</string>
+    <string name="ColombiaPhraseThree">Slang:- Rumbear</string>
+    <string name="ColombiaPhraseFour">Slang:- Parche</string>
+    <string name="ColombiaPhraseFive">Slang:- Harto</string>
+    <string name="ColombiaPhraseSix">Slang:- ¡De una</string>
+
+    <!-- Explanation For Colombia -->
+    <string name="ColombiaExplainOne">Explanation:-  This is the slang word Colombians use for referring to a friend.</string>
+    <string name="ColombiaExplainTwo">Explanation:- Want to say something is really good or cool? Don’t limit yourself to saying that it is muy bueno and instead go for one of these two hugely popular local terms.</string>
+    <string name="ColombiaExplainThree">Explanation:- Rumba is technically a sort of music/dance originating in Cuba, but in Colombia it invariably means a party. Rumbear is to go partying.</string>
+    <string name="ColombiaExplainFour">Explanation:- Here it means something like: a group of friends getting together to do something.</string>
+    <string name="ColombiaExplainFive">Explanation:- Harto is a common term meaning a lot of or a ton of.</string>
+    <string name="ColombiaExplainSix">Explanation:- An enthusiastic way to say yes, absolutely!</string>
+
+    <!-- Phrases For Canada -->
+    <string name="CanadaPhraseOne">Slang:- Eh?</string>
+    <string name="CanadaPhraseTwo">Slang:- Double-double</string>
+    <string name="CanadaPhraseThree">Slang:- The 6ix</string>
+    <string name="CanadaPhraseFour">Slang:- Two-four</string>
+    <string name="CanadaPhraseFive">Slang:- Mickey</string>
+    <string name="CanadaPhraseSix">Slang:- Pop</string>
+
+    <!-- Explanation For Canada -->
+    <string name="CanadaExplainOne">Explanation:- This word is used in everyday Canadian vernacular to indicate that you don’t understand something, can’t believe something is true or want the person you’re speaking with to respond.</string>
+    <string name="CanadaExplainTwo">Explanation:- This bad boy is a Tim Hortons favorite: regular coffee with two creams and two sugars.</string>
+    <string name="CanadaExplainThree">Explanation:- The 6ix refers to the six former cities that now make up Toronto.</string>
+    <string name="CanadaExplainFour">Explanation:- This term is commonly used to refer to a case of 24 beers. Don’t be surprised when a friend asks you to pick one up on the way over.</string>
+    <string name="CanadaExplainFive">Explanation:- A mickey is a hip-flask-size bottle of liquor. You can only find these at the LCBO. It fits perfectly in your purse, pocket or hand.</string>
+    <string name="CanadaExplainSix">Explanation:- Refers to soda, the delicious carbonated beverage that mom rarely lets you have.</string>
+
+    <!-- Phrases For Brazil -->
+    <string name="BrazilPhraseOne">Slang:- E aí?</string>
+    <string name="BrazilPhraseTwo">Slang:- Bacana</string>
+    <string name="BrazilPhraseThree">Slang:- Tá bom?</string>
+    <string name="BrazilPhraseFour">Slang:- Cara</string>
+    <string name="BrazilPhraseFive">Slang:- Foi mal</string>
+    <string name="BrazilPhraseSix">Slang:- Mandar-se</string>
+
+    <!-- Explanation For Brazil -->
+    <string name="BrazilExplainOne">Explanation:- E aí? is quite a colloquial way of saying hi. It’s pretty much like saying what’s up? in English.</string>
+    <string name="BrazilExplainTwo">\"Explanation:- The word bacana means good or awesome. \"</string>
+    <string name="BrazilExplainThree">Explanation:- A loose translation for tá bom? is all good? It’s a way of asking if someone agrees or is okay with a proposition.</string>
+    <string name="BrazilExplainFour">Explanation:- Cara is colloquially used to mean face but it’s also slang used to talk about a guy or a man.</string>
+    <string name="BrazilExplainFive">Explanation:- In English, someone might say  My bad! when they’ve made an obvious blunder.</string>
+    <string name="BrazilExplainSix">Explanation:- A colloquial verb that’s best translated as to get out.</string>
+
+    <!-- Phrases For Australia -->
+    <string name="AusPhraseOne">Slang:- No worries, mate, she\'ll be right</string>
+    <string name="AusPhraseTwo">Slang:- Ripsnorter</string>
+    <string name="AusPhraseThree">Slang:- Blokes and sheilas</string>
+    <string name="AusPhraseFour">Slang:- Crikey, blimey</string>
+    <string name="AusPhraseFive">Slang:- Put a sock in it</string>
+    <string name="AusPhraseSix">Slang:- Wrap your laughing gear \'round that</string>
+
+    <!-- Explanation For Australia -->
+    <string name="AusExplainOne">Explanation:- Reflects a national stoicism that suggests everything (she) will turn out fine in the end. This being the case, there\'s no real point in worrying about anything.</string>
+    <string name="AusExplainTwo">Explanation:- Someone playing a good game of sport (having a blinder), or something that\'s exceptionally good. Can also be bonza or beaut.</string>
+    <string name="AusExplainThree">Explanation:- When Julia Gillard was voted in as the country\'s first female prime minister, it didn\'t take long for Australia to start calling the prime minister\'s partner the first bloke.</string>
+    <string name="AusExplainFour">Explanation:- Euphemisms used to communicate amazement or surprise.</string>
+    <string name="AusExplainFive">Explanation:-  Tells somebody to shut up.</string>
+    <string name="AusExplainSix">Explanation:- While some suggest you can laugh on the inside, your main laughing gear is your mouth. So when you wrap your laughing gear \'round something, you eat it.</string>
+    <string name="get_started">शुरू हो जाओ</string>
+    <string name="translationIcon">अनुवाद चिह्न</string>
+    <string name="detected_language_english">शब्दचिह्न</string>
+    <string name="enter_text">लिखना प्रारम्भ करें</string>
+    <string name="translate">अनुवाद करना</string>
+    <string name="voice_translation">आवाज अनुवाद</string>
+
+    <!-- Custom Exit Dialog box -->
+    <string name="exit_dialog_cancel">रद्द करना</string>
+    <string name="exit_dialog_no">नहीं न</string>
+    <string name="exit_dialog_yes">हाँ</string>
+    <string name="Exit_dialog_message">क्या आप वास्तव मे बाहर जाना चाहते हैं?</string>
+    <string name="exit_alert_message">ऐप से बाहर निकलने के लिए फिर से दबाएं</string>
+    <string name="validation_MSG_Translation">ठीक है</string>
+    <string name="Validation_MSG_Translation">कृपया एक पाठ दर्ज करें</string>
+
+    <!-- Setting Screen -->
+    <string name="settings_dark_mode">डार्क मोड</string>
+    <string name="settings_privacy_amp_policy"><![CDATA[एकांत & नीति]]></string>
+    <string name="settings_terms_amp_conditions"><![CDATA[मामले & शर्तेँ]]></string>
+
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_countries">
+
+    <fragment
+        android:id="@+id/navigation_countries"
+        android:name="op.mobile.app.dev.kaths4.travelling.ui.countries.CountriesFragment"
+        android:label="@string/countries"
+        tools:layout="@layout/countries_fragment">
+        <argument
+            android:name="countries"
+            app:argType="op.mobile.app.dev.kaths4.travelling.model.Countries" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_phrases"
+        android:name="op.mobile.app.dev.kaths4.travelling.ui.phrases.PhrasesFragment"
+        android:label="@string/phrases"
+        tools:layout="@layout/phrases_fragment">
+        <argument
+            android:name="countries"
+            app:argType="op.mobile.app.dev.kaths4.travelling.model.Countries" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_quiz"
+        android:name="op.mobile.app.dev.kaths4.travelling.ui.quiz.QuizFragment"
+        android:label="@string/quiz"
+        tools:layout="@layout/quiz_fragment">
+        <argument
+            android:name="countries"
+            app:argType="op.mobile.app.dev.kaths4.travelling.model.Countries" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_translation"
+        android:name="op.mobile.app.dev.kaths4.travelling.ui.translation.TranslationFragment"
+        android:label="@string/translation"
+        tools:layout="@layout/translation_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="op.mobile.app.dev.kaths4.travelling.ui.settings.SettingsFragment"
+        android:label="@string/settings"
+        tools:layout="@layout/settings_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_github_countries"
+        android:name="op.mobile.app.dev.kaths4.travelling.ui.countries.CountriesFragment"
+        android:label="@string/countries"
+        tools:layout="@layout/countries_fragment" />
+
+</navigation>

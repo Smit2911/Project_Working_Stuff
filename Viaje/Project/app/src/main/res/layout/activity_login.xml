@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_24dp"
+            android:layout_marginTop="@dimen/margin_60dp"
+            android:layout_marginEnd="@dimen/margin_24dp"
+            android:text="@string/welcome_back"
+            android:textColor="@color/light_purple"
+            android:textSize="@dimen/text_size_25"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_24dp"
+            android:layout_marginTop="@dimen/margin_10dp"
+            android:layout_marginEnd="@dimen/margin_24dp"
+            android:text="@string/sign_in_to_continue"
+            android:textColor="@color/light_purple"
+            android:textSize="@dimen/text_size_20" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_24dp"
+            android:layout_marginTop="@dimen/margin_80dp"
+            android:layout_marginEnd="@dimen/margin_24dp"
+            android:text="@string/sign_in"
+            android:textAllCaps="false"
+            android:textColor="@color/dark_purple"
+            android:textSize="@dimen/text_size_25"
+            android:textStyle="bold" />
+
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_24dp"
+            android:layout_marginTop="@dimen/margin_20dp"
+            android:layout_marginEnd="@dimen/margin_24dp"
+            android:autofillHints="@string/prompt_email"
+            android:drawableStart="@drawable/ic_baseline_email_24"
+            android:drawablePadding="@dimen/margin_5dp"
+            android:drawableTint="@color/dark_purple"
+            android:hint="@string/prompt_email"
+            android:inputType="textEmailAddress"
+            android:selectAllOnFocus="true"
+            android:textColor="@color/light_purple"
+            android:textColorHint="@color/light_purple" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_24dp"
+            android:layout_marginTop="@dimen/margin_8dp"
+            android:layout_marginEnd="@dimen/margin_24dp"
+            android:autofillHints="@string/prompt_password"
+            android:drawableStart="@drawable/ic_baseline_lock_24"
+            android:drawablePadding="@dimen/margin_5dp"
+            android:drawableTint="@color/dark_purple"
+            android:hint="@string/prompt_password"
+            android:imeActionLabel="@string/sign_in"
+            android:imeOptions="actionDone"
+            android:inputType="textPassword"
+            android:selectAllOnFocus="true"
+            android:textColor="@color/light_purple"
+            android:textColorHint="@color/light_purple" />
+
+        <Button
+            android:id="@+id/sign_in"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/margin_20dp"
+            android:clickable="true"
+            android:text="@string/sign_in"/>
+
+        <TextView
+            android:id="@+id/create_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/margin_12dp"
+            android:clickable="true"
+            android:text="@string/create_account"
+            android:textColor="@color/light_purple"
+            android:textSize="@dimen/text_size_15" />
+
+    </LinearLayout>
